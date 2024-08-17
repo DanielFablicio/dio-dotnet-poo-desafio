@@ -1,0 +1,14 @@
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/bin/Debug/net8.0/Dio_Dotnet_POO_Desafio
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/bin/Debug/net8.0/Dio_Dotnet_POO_Desafio.deps.json
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/bin/Debug/net8.0/Dio_Dotnet_POO_Desafio.runtimeconfig.json
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/bin/Debug/net8.0/Dio_Dotnet_POO_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/bin/Debug/net8.0/Dio_Dotnet_POO_Desafio.pdb
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/Dio_Dotnet_POO_Desafio.GeneratedMSBuildEditorConfig.editorconfig
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/Dio_Dotnet_POO_Desafio.AssemblyInfoInputs.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/Dio_Dotnet_POO_Desafio.AssemblyInfo.cs
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/Dio_Dotnet_POO_Desafio.csproj.CoreCompileInputs.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/Dio_Dotnet_POO_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/refint/Dio_Dotnet_POO_Desafio.dll
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/Dio_Dotnet_POO_Desafio.pdb
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/Dio_Dotnet_POO_Desafio.genruntimeconfig.cache
+/media/australopitecus/Arquivos_Daniel/Programas/VS Code/C#/Dio_Dotnet_POO_Desafio/obj/Debug/net8.0/ref/Dio_Dotnet_POO_Desafio.dll
